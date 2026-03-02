@@ -1,5 +1,9 @@
-# Curseforge Mirror Template
+# PVP Flag Checker Mirror
 
-This is a python script plus Github Action to generate a release every period of time for addons that aren't yet transitioned to Github.
+This is a mirror of DakontDharkon's PVP Flag Checker
 
-This specific repo does nothing but acts as a template to build upon!
+- [Curseforge URL](https://www.curseforge.com/wow/addons/pvp-flag-checker)
+
+----
+
+To open a ticket related to this repository, please do so on [this repository](https://github.com/curseforge-mirror/.github)
